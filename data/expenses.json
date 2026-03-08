@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "title": "Groceries",
+        "amount": 45.5,
+        "category": "Food",
+        "expense_date": "2026-03-05"
+    },
+    {
+        "title": "Bus fare",
+        "amount": 10.0,
+        "category": "Transport",
+        "expense_date": "2026-03-06"
+    },
+    {
+        "title": "Notebook",
+        "amount": 8.75,
+        "category": "School",
+        "expense_date": "2026-03-07"
+    },
+    {
+        "title": "clothings",
+        "amount": 300.0,
+        "category": "2",
+        "expense_date": "2026-03-17"
+    }
+]
